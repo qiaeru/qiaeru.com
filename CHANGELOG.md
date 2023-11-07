@@ -12,7 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Changed
 
-- Update Bootstrap and Bootstrap Icons versions.
+- Update Bootstrap, Bootstrap Icons and Pretendard versions.
 - Remove a reference to Highlight.js.
 - Update Mastodon instance.
 
