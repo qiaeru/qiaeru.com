@@ -8,14 +8,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- Add Bluesky account.
+- Add Bluesky.
+- Add Authy.
 
 ### Changed
 
 - Update Bootstrap, Bootstrap Icons and Pretendard versions.
 - Update DeepL and Reddit icons.
-- Remove a reference to Highlight.js.
 - Update Mastodon instance.
+
+### Rmoved
+
+- Remove Outlook.
+- Remove a reference to Highlight.js in the about page.
 
 ## [1.0.0] - 2023-08-31
 
