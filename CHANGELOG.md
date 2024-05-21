@@ -8,8 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- Add Bluesky.
 - Add Authy.
+- Add Bluesky.
+- Add Proton Pass.
 
 ### Changed
 
@@ -19,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Rmoved
 
+- Remove Bitwarden.
 - Remove Outlook.
 - Remove a reference to Highlight.js in the about page.
 
